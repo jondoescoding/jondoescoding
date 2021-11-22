@@ -5,11 +5,11 @@
 [![Jonathan's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13273444/jondoescoding)
 
 
-I'm an avid Smart Contract/Blockchain Software Engineer based in Kingston, Jamaiaca. Admittedly, I am new to the world of crypto and understandably have a lot to learn. I am however enjoying ever moment of it. I am a highly motivated individual who always loves to learn new technologies and solve problems. My areas of expertise are:
+I am a passionate smart contract/blockchain software engineer from Kingston, Jamaica. As a newcomer to the crypto world, I understandably have much to learn. In spite of that, I enjoy every minute of it. In addition to being highly motivated, I love learning new technologies and solving problems. My areas of expertise include:
 
 + Python
 + Vyper
 + Solidity
 + Brownie
 
-My main focus at the moment is to use my vyper and solidity knowledge for eager entrperenuers who want to deploy their NFTs projects on sites such as OpenSea and assisting supply chain business owners solve complex scaling blockchain problems.
+My main focus at the moment is to apply my vyper and solidity knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain problems.
