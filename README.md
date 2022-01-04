@@ -7,10 +7,12 @@
 
 I am a passionate smart contract/blockchain software engineer from Kingston, Jamaica. As a newcomer to the crypto world, I understandably have much to learn. In spite of that, I am enjoying every minute of it. In addition to being highly motivated, I love learning new technologies and solving problems. My areas of expertise include:
 
-+ Python
-+ Figma / Adobe XD
-+ Vyper
 + Solidity
-+ Brownie
++ Hardhat
++ HTML
++ CSS
++ JS (Vanilla, React)
++ Figma / Adobe XD
 
-My main focus at the moment is to Solidity knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain problems.
+
+My main focus at the moment is to use my Solidity knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain issues.
