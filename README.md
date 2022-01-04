@@ -13,4 +13,4 @@ I am a passionate smart contract/blockchain software engineer from Kingston, Jam
 + Solidity
 + Brownie
 
-My main focus at the moment is to apply my vyper and solidity knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain problems.
+My main focus at the moment is to Solidity knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain problems.
