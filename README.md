@@ -12,4 +12,4 @@ I am a passionate smart contract/blockchain software engineer from the Caribbean
 + Framer
 + React
 
-My main focus at the moment is to use my Solidity knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain issues.
+My main focus at the moment is to use my React knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain issues.
