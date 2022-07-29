@@ -12,3 +12,4 @@ I am a passionate smart contract/blockchain software engineer from Kingston, Jam
 + Framer
 + React
 
+My main focus at the moment is to use my Solidity knowledge to help eager entrepreneurs launch their NFTs projects on sites such as OpenSea and assist supply chain business owners solve complex scaling blockchain issues.
