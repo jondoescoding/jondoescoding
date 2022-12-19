@@ -14,13 +14,10 @@
   <a href="https://github.com/jondoescoding">
   <img src="https://user-images.githubusercontent.com/52125687/178482938-319c8126-e0e2-4abc-a6a4-efafb0b1b0f7.png" alt="Porfolio">  
 </a>
+  
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=jondoescoding&icon=1&color=11" alt="Porfolio">  
-</a>
-</p>
+
 
 #
 
