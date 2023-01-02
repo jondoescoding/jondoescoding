@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">  
 </a>
   
-  <a href="https://github.com/jondoescoding">
-  <img src="https://user-images.githubusercontent.com/52125687/178482938-319c8126-e0e2-4abc-a6a4-efafb0b1b0f7.png" alt="Porfolio">  
-</a>
-  
 </p>
 
 
@@ -23,13 +19,13 @@
 
 <br/>
 <p align="center">
-  🔭 Building: Crypto arbitrage bots
+  🔭 Building: AI Prediction Models 
 </p>  
 <p align="center">
-  🌱 Learning: Vyper & how to read on-chain data
+  🌱 Learning: Time Series Forecasting, Sentimental Analysis, Classification and Regression
 </p>  
 <p align="center">
-  💬 Ask me about: web3, DeFi, Web Scraping/Data Mining, Automation
+  💬 Ask me about: AI, web3, DeFi, Web Scraping/Data Mining
 </p>  
   
   
