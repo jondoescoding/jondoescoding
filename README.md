@@ -67,13 +67,6 @@
 </table>
 </div>
 
-<br/>
-<div align="center">
-  <h3>
-    🤔 Currently Researching - Flashbots
-  </h3>
-</div>
-
 #
 <h4 align="center">
   I am always available on all my social media platforms, so shoot me a message if you have any queries 🔥
