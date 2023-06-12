@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/jondidathing">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">  
 </a>
@@ -13,26 +13,24 @@
   
 </p>
 
-
-
 #
 
-<br/>
-<p align="center">
-  🔭 Building: AI Prediction Models 
-</p>  
-<p align="center">
-  🌱 Learning: Time Series Forecasting, Sentimental Analysis, Classification and Regression
-</p>  
-<p align="center">
-  💬 Ask me about: AI, web3, DeFi, Web Scraping/Data Mining
-</p>  
-  
-  
+<div align="left">
+  <h3>
+    Now
+  </h3>
 
+<p align="left">
+  🔭 Building: Langchain Web Apps
+</p>  
+<p align="left">
+  🌱 Learning: Stable Diffusion, NLP, Python 
+</p>  
+<p align="left">
+  💬 Ask me about: ML, Langchain, Generative Art 
+</p>  
 
-<br/>
-<div align="center">
+<div align="left">
   <h3>
     Tools | Programming Languages | Tech
   </h3>
@@ -44,12 +42,6 @@
         <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/python.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg" width="48" height="48" alt="VYPER" />
-      </a>
-      <br>Vyper
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
