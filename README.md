@@ -21,7 +21,7 @@
   </h3>
 
 <p align="left">
-  🔭 Building: Langchain Agents & Chatbots, [Low-Code Websites](https://nightshade.framer.ai/)
+  🔭 Building: Langchain Agents & Chatbots, [Low-Code Websites]([url](https://nightshade.framer.ai/))
 </p>  
 <p align="left">
   🌱 Learning: Rust
