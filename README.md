@@ -21,13 +21,13 @@
   </h3>
 
 <p align="left">
-  🔭 Building: Langchain Web Apps
+  🔭 Building: Langchain Agents & Chatbots, [Low-Code Websites](https://nightshade.framer.ai/)
 </p>  
 <p align="left">
-  🌱 Learning: Stable Diffusion, NLP, Python 
+  🌱 Learning: Rust
 </p>  
 <p align="left">
-  💬 Ask me about: ML, Langchain, Generative Art 
+  💬 Ask me about: ML, Langchain, Generative AI (Art, Text & Code)
 </p>  
 
 <div align="left">
