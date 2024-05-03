@@ -21,13 +21,13 @@
   </h3>
 
 <p align="left">
-  🔭 Building: Langchain Autonomous Agents & Chatbots, <a href="https://nightshade.framer.ai/">Low Code Websites</a>
+  🔭 Building: Langchain Autonomous Agents & Chatbots, Serverless ML Systems
 </p>  
 <p align="left">
-  🌱 Learning: Rust
+  🌱 Learning: 3 Pipelines
 </p>  
 <p align="left">
-  💬 Ask me about: ML, Langchain, Generative AI (Art, Text & Code)
+  💬 Ask me about: Langchain, Generative AI (Art, Text & Code)
 </p>  
 
 <div align="left">
