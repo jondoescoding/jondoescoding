@@ -24,7 +24,7 @@
   🔭 Building: Langchain Autonomous Agents & Chatbots, Serverless ML Systems
 </p>  
 <p align="left">
-  🌱 Learning: 3 Pipelines
+  🌱 Learning: ML Pipelines
 </p>  
 <p align="left">
   💬 Ask me about: Langchain, Generative AI (Art, Text & Code)
