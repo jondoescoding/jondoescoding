@@ -1,9 +1,9 @@
 <p align="left">
-<a href="https://twitter.com/jondidathing">
+<a href="https://twitter.com/jondoescoding">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">  
 </a>
   
-  <a href="https://stackoverflow.com/users/13273444/jondidathing">
+  <a href="https://stackoverflow.com/users/13273444/jondoescoding">
   <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow">  
 </a>
 
