@@ -21,13 +21,13 @@
   </h3>
 
 <p align="left">
-  🔭 Building: Langchain Autonomous Agents & Chatbots, Serverless ML Systems
+  🔭 Building: Langchain Agents & Chatbots
 </p>  
 <p align="left">
-  🌱 Learning: ML Pipelines
+  🌱 Learning: FastAPI
 </p>  
 <p align="left">
-  💬 Ask me about: Langchain, Generative AI (Art, Text & Code)
+  💬 Ask me about: Langchain, Generative AI (Images & Text)
 </p>  
 
 <div align="left">
