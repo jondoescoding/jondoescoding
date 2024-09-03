@@ -20,7 +20,7 @@
 
 <!--ABOUT ME SECTION-->
 # 💫 About Me:
-## - Actively building autonomous agents and chatbots to assist small to medium business owners free up more time. <br><br>- Currently pursuing a Master's in Applied Data Science. <br><br>- Playground for the Agents & Chatbots I've built: **[Portfolio]()**
+## - Actively building autonomous agents and chatbots to assist small to medium business owners free up more time. <br><br>- Currently pursuing a Master's in Applied Data Science.
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -47,6 +47,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jondoescoding&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -54,9 +57,6 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--icons and links-->
 <p align="center">
