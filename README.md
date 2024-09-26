@@ -10,7 +10,7 @@
 <!--H2 Paragraph on who I am-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">AI Researcher from Jamaica 🇯🇲👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">AI Researcher from Jamaica 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
