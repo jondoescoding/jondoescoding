@@ -17,9 +17,9 @@
 
 - 🗞️ Write about generative AI at [Medium](https://medium.com/@jondoescoding) with a focus on building and scaling both AI agents and workflows.
 
-- 🌱 I’m looking to meet people working in the area of Generative AI for text, images and audio, in both web2 and web3. I have a particular interst using these AI agents to interact with the blockchain.
+- 🌱 I’m looking to meet people working in the area of Generative AI for text and images. I have a particular interst using AI agents to interact with the blockchain.
 
-- 💬 Talk to me about **_GenAI_**, **_Web3_** and all things **_Open Source_**!
+- 💬 Talk to me about **_Generative AI_**, **_Web3_** and all things **_Open Source_**!
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
