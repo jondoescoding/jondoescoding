@@ -7,14 +7,6 @@
 <!--H1 Intro Greeting-->
 <h1 align="center">Grettings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jon</h1>
 
-<!--H2 Paragraph on who I am-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">AI Researcher from Jamaica 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
