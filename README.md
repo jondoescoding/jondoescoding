@@ -15,9 +15,7 @@
 
 - 🥑 **AI Research** at [The University Of The West Indies](https://www.mona.uwi.edu/) focused on building chatbots to unearth the differences between an AI models with and without context to fight against misinformation within the Caribbean. 
 
-- 🗞️ Write about generative AI at [Medium](https://medium.com/@jondoescoding) with a focus on building and scaling both AI agents and workflows.
-
-- 🌱 I’m looking to meet people working in the area of Generative AI for text and images. I have a particular interst using AI agents to interact with the blockchain.
+- 🌱 I’m looking to meet people working in the area of Generative AI for text and images. My main interest lies in AI agent automation.
 
 - 💬 Talk to me about **_Generative AI_**, **_Web3_** and all things **_Open Source_**!
 
