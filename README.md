@@ -13,9 +13,9 @@
 <!--ABOUT ME SECTION-->
 <h2> About Me </h2>
 
-- 🥑 **AI Research Assitant** at [The University Of The West Indies](https://www.mona.uwi.edu/).
+- 🥑 **AI Research Assitant** at The University Of The West Indies.
 
-- 🛠 Building and marketing apps with AI
+- 🛠 [Building and marketing apps with AI](https://www.jondoescoding.xyz/)
 
 - 🌱 I’m looking to meet people working in the area of Generative AI for text and images. 
 
