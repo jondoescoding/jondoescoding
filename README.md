@@ -13,9 +13,11 @@
 <!--ABOUT ME SECTION-->
 <h2> About Me </h2>
 
-- 🥑 **AI Research** at [The University Of The West Indies](https://www.mona.uwi.edu/) focused on building chatbots to unearth the differences between an AI models with and without context to fight against misinformation within the Caribbean. 
+- 🥑 **AI Research Assitant** at [The University Of The West Indies](https://www.mona.uwi.edu/).
 
-- 🌱 I’m looking to meet people working in the area of Generative AI for text and images. My main interest lies in AI agent automation.
+- 🛠 Building and marketing apps with AI
+
+- 🌱 I’m looking to meet people working in the area of Generative AI for text and images. 
 
 - 💬 Talk to me about **_Generative AI_**, **_Web3_** and all things **_Open Source_**!
 
