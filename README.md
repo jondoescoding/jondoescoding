@@ -38,12 +38,12 @@
 <br><br>
 
 <!-- Connect with me -->
-# Let's Connect:
+# Where to find me online:
 <!--icons and links-->
 <p align="center">
 <strong>
   
-🐦 [Twitter](http://www.twitter.com/jondoescoding) • 💼 [LinkedIn](https://www.linkedin.com/in/jonathanwhite-jm/)
+🐦 [Twitter](https://dub.sh/jdc/x) • 💼 [LinkedIn](https://dub.sh/jdc/ln)
 </strong>
 </p>
 
